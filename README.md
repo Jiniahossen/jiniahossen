@@ -17,7 +17,7 @@
 
 
 
-### 📫 How to reach me
+## 📫 How to reach me
 <p align="center">
 <a href="https://twitter.com/jinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jinia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jinia-akter-a41951267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinia-akter-a41951267" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 
 &nbsp;
 
-<h3 align="left">💻 Technologies that I know</h3>
+## 💻 Technologies that I know
 
 <p align="center">
   <a href="https://skillicons.dev">
