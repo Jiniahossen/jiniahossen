@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning **Three.js ,Next.js**
 
-- 🤔 I’m Seeking -  professional opportunities to elevate and refine my skills through hands-on working experience.
+- 🤔 I’m looking  - for professional opportunities to elevate and refine my skills through hands-on working experience.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jiniahossen](https://github.com/Jiniahossen)
 
