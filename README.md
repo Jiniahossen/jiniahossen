@@ -10,6 +10,8 @@
 ## 📈 Current Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiniahossen&show_icons=true&locale=en&layout=compact" alt="jiniahossen" /></p>
 
+&nbsp;
+&nbsp;
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiniahossen&show_icons=true&locale=en" alt="jiniahossen" /></p> -->
 
 <p>&nbsp;
@@ -48,7 +50,6 @@
 - 🤔 I’m Seeking -  professional opportunities to elevate and refine my skills through hands-on working experience.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jiniahossen](https://github.com/Jiniahossen)
-
 
 
 
