@@ -8,13 +8,9 @@
 
 
 ## 📈 Current Stats
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiniahossen&show_icons=true&locale=en&layout=compact" alt="jiniahossen" /></p>
-</div>
-
 
 <div>
-<p>&nbsp;
+<p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jiniahossen&theme=catppuccin-mocha" alt="GitHub Streak" /></a></p>
 </div>
 
